@@ -1,3 +1,3 @@
 
 lamundo!
-cambio dela nueva rama 
+cambio de la nueva rama 
